@@ -5,3 +5,12 @@
 .section-two {
   height: 85vh;
 }
+
+.logos > div > img {
+  filter: grayscale(100%);
+}
+
+.logos > div > img:hover {
+  filter: grayscale(0%);
+  box-shadow: 10px 10px 5px grey;
+}
