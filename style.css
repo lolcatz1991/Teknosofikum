@@ -1,5 +1,5 @@
 .section-one {
-  height: 85vh;
+  height: 80vh;
 }
 
 .section-two {
@@ -17,8 +17,8 @@
 
 .orangebox {
   position: absolute;
-  top: 220px;
-  right: 190px;
+  top: 230px;
+  right: 280px;
   z-index: -1;
   height: 360px;
   width: 550px;
