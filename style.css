@@ -11,7 +11,7 @@
 }
 
 .values > div > img {
-  width: 200px;
+  width: 180px;
 }
 
 .section-five-bar-beginning {
@@ -19,6 +19,10 @@
 }
 
 .section-five-bar-end {
+  background-color: #a7d8cc;
+}
+
+.section-seven {
   background-color: #a7d8cc;
 }
 
