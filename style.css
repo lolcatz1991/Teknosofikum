@@ -20,6 +20,7 @@
 
 .text-box {
   background-color: #c4ede5;
+  padding: 1em;
 }
 
 .logos > div > img {
@@ -31,12 +32,10 @@
   box-shadow: 10px 10px 5px grey;
 }
 
-.orangebox {
-  position: absolute;
-  top: 230px;
-  right: 280px;
-  z-index: -1;
-  height: 360px;
-  width: 550px;
-  background-color: orange;
+.magda {
+  box-shadow: -20px 20px orange;
+}
+
+.section-one-photo {
+  box-shadow: -25px 30px orange;
 }
