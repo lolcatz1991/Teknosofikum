@@ -32,26 +32,45 @@
   box-shadow: 10px 10px 5px grey;
 }
 
-.magda {
-  box-shadow: -20px 20px orange;
+.christin {
+  width: 100vw;
 }
 
-.christin {
-  box-shadow: -5px 10px orange;
+.magda {
+  width: 100vw;
+}
+
+.itu {
+  width: 100vw;
 }
 
 .campus {
-  box-shadow: -30px 10px orange;
+  width: 100vw;
 }
 
-.box-one {
-  box-shadow: 25px -20px orange;
-}
+/* media query to fix orange boxes around pics */
+@media screen and (min-width: 40em) {
+  .magda {
+    box-shadow: -20px 20px orange;
+  }
 
-.box-two {
-  box-shadow: -5px -20px orange;
-}
+  .christin {
+    box-shadow: -5px 10px orange;
+  }
 
-.section-one-photo {
-  box-shadow: -25px 30px orange;
+  .campus {
+    box-shadow: -30px 10px orange;
+  }
+
+  .box-one {
+    box-shadow: 25px -20px orange;
+  }
+
+  .box-two {
+    box-shadow: -5px -20px orange;
+  }
+
+  .section-one-photo {
+    box-shadow: -25px 30px orange;
+  }
 }
