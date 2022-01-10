@@ -6,6 +6,23 @@
   height: 85vh;
 }
 
+.section-three {
+  background-color: #a7d8cc;
+}
+
+.section-five-bar-beginning {
+  background-color: #c4ede5;
+}
+
+.section-five-bar-end {
+  background-color: #a7d8cc;
+}
+
+.text-box {
+  background-color: #a7d8cc;
+  height: 200px;
+}
+
 .logos > div > img {
   filter: grayscale(100%);
 }
