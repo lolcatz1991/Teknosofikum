@@ -10,6 +10,10 @@
   background-color: #a7d8cc;
 }
 
+.values > div > img {
+  width: 200px;
+}
+
 .section-five-bar-beginning {
   background-color: #c4ede5;
 }
