@@ -1,5 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@900&family=Montserrat&display=swap");
+
 * {
   max-width: 100%;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Merriweather", serif;
+}
+
+p,
+a {
+  font-family: "Montserrat", sans-serif;
 }
 
 .section-one {
