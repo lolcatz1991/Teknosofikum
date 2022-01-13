@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@900&family=Montserrat&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css");
 
 /* below is root for variables - set color scheme and fonts */
 :root {
@@ -92,5 +93,9 @@ a {
 
   .section-one-photo {
     box-shadow: -25px 30px orange;
+  }
+
+  .post-it {
+    box-shadow: -20px 20px orange;
   }
 }
