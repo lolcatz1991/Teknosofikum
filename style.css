@@ -1,13 +1,9 @@
+* {
+  max-width: 100%;
+}
+
 .section-one {
-  height: 80vh;
-}
-
-.section-two {
-  height: 85vh;
-}
-
-.section-three {
-  background-color: #a7d8cc;
+  padding-block: 10vh;
 }
 
 .values > div > img {
@@ -18,11 +14,7 @@
   background-color: #c4ede5;
 }
 
-.section-five-bar-end {
-  background-color: #a7d8cc;
-}
-
-.section-seven {
+.background-color {
   background-color: #a7d8cc;
 }
 
