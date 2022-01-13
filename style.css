@@ -1,5 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@900&family=Montserrat&display=swap");
 
+/* below is root for variables - set color scheme and fonts */
+:root {
+  --backgroundcl: #a7d8cc;
+  --lighterbgcl: #c4ede5;
+  --header: "Merriweather", serif;
+}
+
 * {
   max-width: 100%;
 }
@@ -7,7 +14,7 @@
 h1,
 h2,
 h3 {
-  font-family: "Merriweather", serif;
+  font-family: var(--header);
 }
 
 p,
@@ -24,15 +31,15 @@ a {
 }
 
 .section-five-bar-beginning {
-  background-color: #c4ede5;
+  background-color: var(--lighterbgcl);
 }
 
 .background-color {
-  background-color: #a7d8cc;
+  background-color: var(--backgroundcl);
 }
 
 .text-box {
-  background-color: #c4ede5;
+  background-color: var(--lighterbgcl);
   padding: 1em;
 }
 
