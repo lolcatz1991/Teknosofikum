@@ -71,6 +71,10 @@ a {
 
 /* media query to fix orange boxes around pics */
 @media screen and (min-width: 40em) {
+  .section-one-photo {
+    box-shadow: -25px 30px orange;
+  }
+
   .magda {
     box-shadow: -20px 20px orange;
   }
@@ -89,10 +93,6 @@ a {
 
   .box-two {
     box-shadow: -5px -20px orange;
-  }
-
-  .section-one-photo {
-    box-shadow: -25px 30px orange;
   }
 
   .post-it {
