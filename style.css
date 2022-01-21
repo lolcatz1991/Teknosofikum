@@ -24,12 +24,8 @@ a {
   font-family: var(--text);
 }
 
-.section-one {
-  padding-block: 10vh;
-}
-
 .values > div > img {
-  width: 180px;
+  width: 13em;
 }
 
 .section-five-bar-beginning {
@@ -72,6 +68,10 @@ a {
 
 /* media query to fix orange boxes around pics */
 @media screen and (min-width: 40em) {
+  .section-one {
+    padding-block: 10%;
+  }
+
   .section-one-photo {
     box-shadow: -25px 30px orange;
   }
