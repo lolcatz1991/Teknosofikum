@@ -19,6 +19,10 @@ h3 {
   font-family: var(--header);
 }
 
+img {
+  max-width: 100vw;
+}
+
 p,
 a {
   font-family: var(--text);
@@ -48,22 +52,6 @@ a {
 .logos > div > img:hover {
   filter: grayscale(0%);
   box-shadow: 10px 10px 5px grey;
-}
-
-.christin {
-  width: 100vw;
-}
-
-.magda {
-  width: 100vw;
-}
-
-.itu {
-  width: 100vw;
-}
-
-.campus {
-  width: 100vw;
 }
 
 /* media query to fix orange boxes around pics */
