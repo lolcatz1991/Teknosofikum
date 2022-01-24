@@ -56,7 +56,7 @@ a {
 
 /* media query to fix orange boxes around pics */
 @media screen and (min-width: 40em) {
-  .section-one {
+  .full-screen {
     padding-block: 10%;
   }
 
