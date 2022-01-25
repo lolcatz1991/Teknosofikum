@@ -9,7 +9,7 @@
   --text: "Montserrat", sans-serif;
 }
 
-/* * {
+/* .container {
   max-width: 100%;
 } */
 
@@ -30,6 +30,7 @@ a {
 
 .values > div > img {
   width: 13em;
+  max-width: 100%;
 }
 
 .section-five-bar-beginning {
@@ -42,7 +43,7 @@ a {
 
 .text-box {
   background-color: var(--lighterbgcl);
-  padding: 1em;
+  padding-block: 1em;
 }
 
 .logos > div > img {
