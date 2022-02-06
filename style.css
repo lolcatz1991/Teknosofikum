@@ -8,10 +8,6 @@
   --header: "Merriweather", serif;
   --text: "Montserrat", sans-serif;
 }
-/* 
-* {
-  max-width: 100%;
-} */
 
 h1,
 h2,
@@ -59,33 +55,5 @@ a {
 @media screen and (min-width: 40em) {
   .full-screen {
     padding-block: 10%;
-  }
-
-  .section-one-photo {
-    box-shadow: -25px 30px orange;
-  }
-
-  .magda {
-    box-shadow: -20px 20px orange;
-  }
-
-  .christin {
-    box-shadow: -5px 10px orange;
-  }
-
-  .campus {
-    box-shadow: -30px 10px orange;
-  }
-
-  .box-one {
-    box-shadow: 25px -20px orange;
-  }
-
-  .box-two {
-    box-shadow: -5px -20px orange;
-  }
-
-  .post-it {
-    box-shadow: -20px 20px orange;
   }
 }
