@@ -34,16 +34,7 @@ a {
   border-radius: 40px;
 }
 
-.values > div > img {
-  width: 13em;
-  max-width: 100%;
-}
-
-.text-box {
-  background-color: var(--lighterbgcl);
-  padding-block: 1em;
-}
-
+/* hover effect on logos from schools */
 .logos > div > img {
   filter: grayscale(100%);
 }
