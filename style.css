@@ -24,6 +24,18 @@ a {
   font-family: var(--text);
 }
 
+.light-green {
+  color: #48a88f;
+}
+
+.orange {
+  color: #fcbf5b;
+}
+
+.rounded-edges {
+  border-radius: 40px;
+}
+
 .values > div > img {
   width: 13em;
   max-width: 100%;
