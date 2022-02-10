@@ -3,8 +3,6 @@
 
 /* below is root for variables - set color scheme and fonts */
 :root {
-  --backgroundcl: #a7d8cc;
-  --lighterbgcl: #c4ede5;
   --header: "Merriweather", serif;
   --text: "Montserrat", sans-serif;
 }
@@ -39,14 +37,6 @@ a {
 .values > div > img {
   width: 13em;
   max-width: 100%;
-}
-
-.section-five-bar-beginning {
-  background-color: var(--lighterbgcl);
-}
-
-.background-color {
-  background-color: var(--backgroundcl);
 }
 
 .text-box {
