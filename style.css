@@ -34,16 +34,6 @@ a {
   border-radius: 40px;
 }
 
-/* hover effect on logos from schools */
-.logos > div > img {
-  filter: grayscale(100%);
-}
-
-.logos > div > img:hover {
-  filter: grayscale(0%);
-  box-shadow: 10px 10px 5px grey;
-}
-
 /* media query to fix orange boxes around pics */
 @media screen and (min-width: 40em) {
   .full-screen {
