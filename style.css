@@ -27,6 +27,10 @@ a {
   font-family: var(--text);
 }
 
+.small-text {
+  font-size: small;
+}
+
 .light-green {
   color: #48a88f;
 }
@@ -96,5 +100,9 @@ a {
 @media screen and (min-width: 40em) {
   .full-screen {
     padding-block: 10%;
+  }
+
+  .small-text {
+    font-size: small;
   }
 }
