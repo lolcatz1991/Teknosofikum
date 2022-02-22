@@ -33,6 +33,11 @@ a {
   font-weight: 600;
 }
 
+.small-headline {
+  font-family: "Montserrat", serif;
+  font-weight: 600;
+}
+
 .navbar-links {
   font-size: small;
 }
