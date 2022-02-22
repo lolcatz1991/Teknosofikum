@@ -33,6 +33,10 @@ a {
   font-weight: 600;
 }
 
+.navbar-links {
+  font-size: small;
+}
+
 p {
   font-family: "Montserrat", serif;
   font-weight: 400;
@@ -56,6 +60,11 @@ p {
 
 .rounded-edges {
   border-radius: 40px;
+}
+
+.pic-round-edge-left {
+  border-bottom-left-radius: 40px;
+  border-top-left-radius: 40px;
 }
 
 /* media query to fix orange boxes around pics */
