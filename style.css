@@ -14,6 +14,7 @@ body {
 h1 {
   font-family: "Merriweather", serif;
   font-weight: 900;
+  color: #1e1b28;
 }
 
 h2,
@@ -22,6 +23,7 @@ h4,
 h5 {
   font-family: "Montserrat", serif;
   font-weight: 500;
+  color: #1e1b28;
 }
 
 img {
@@ -31,6 +33,13 @@ img {
 a {
   font-family: "Montserrat", serif;
   font-weight: 600;
+  color: #1e1b28;
+}
+
+p {
+  font-family: "Montserrat", serif;
+  font-weight: 400;
+  color: #1e1b28;
 }
 
 .small-headline {
@@ -40,11 +49,6 @@ a {
 
 .navbar-links {
   font-size: small;
-}
-
-p {
-  font-family: "Montserrat", serif;
-  font-weight: 400;
 }
 
 .small-text {
@@ -59,12 +63,12 @@ p {
   background-color: #48a88f;
 }
 
-.orange {
-  color: #fcbf5b;
-}
-
 .grey-bg {
   background-color: #f3f3f3;
+}
+
+.orange {
+  color: #fcbf5b;
 }
 
 .rounded-edges {
