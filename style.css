@@ -71,6 +71,11 @@ p {
   background-color: #1e1b28;
 }
 
+.purple-box {
+  background-image: url("/pics/Participate/Graphic\ Purple\ Stripes.png");
+  background-size: cover;
+}
+
 .orange {
   color: #fcbf5b;
 }
