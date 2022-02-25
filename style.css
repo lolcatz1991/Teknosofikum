@@ -42,6 +42,12 @@ p {
   color: #1e1b28;
 }
 
+.links {
+  font-family: "Montserrat", serif;
+  font-weight: 600;
+  color: lightskyblue;
+}
+
 .small-headline {
   font-family: "Montserrat", serif;
   font-weight: 600;
