@@ -103,7 +103,7 @@ p {
 /* media query to fix orange boxes around pics */
 @media screen and (min-width: 40em) {
   .full-screen {
-    padding-block: 10%;
+    padding-block: 7%;
   }
 
   .small-text {
